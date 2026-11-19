@@ -6,3 +6,5 @@ bubu
 9c169fd Initial commit
 
 zapomnel jsem ulozit prvni commit
+
+zapomnel jsem ulozit druhy commmit
