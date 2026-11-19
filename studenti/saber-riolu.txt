@@ -1,0 +1,6 @@
+bubu
+
+703ad25 (HEAD -> main, origin/main, origin/HEAD) pridany pokemon
+9c96a53 formátování
+35f6131 zadání
+9c169fd Initial commit
